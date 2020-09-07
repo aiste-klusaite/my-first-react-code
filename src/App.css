@@ -1,0 +1,12 @@
+.App {
+  margin: 20px;
+  text-align: center;
+}
+button{
+  padding: 20px 30px;
+  font-size: 30px;
+  cursor: pointer;
+  background-color: gainsboro;
+  border-radius: 5px;
+  
+}
